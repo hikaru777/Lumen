@@ -1,5 +1,7 @@
 <div align="center">
 
+**日本語** | [English](README.en.md) | [简体中文](README.zh-CN.md) | [한국어](README.ko.md)
+
 # Lumen
 
 **音楽に乗るための、メニューバー歌詞アプリ。**
