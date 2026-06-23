@@ -4,12 +4,12 @@
         <title>Lumen</title>
         <item>
             <title>1.1.0</title>
-            <pubDate>Tue, 23 Jun 2026 16:51:47 +0900</pubDate>
-            <sparkle:version>4</sparkle:version>
+            <pubDate>Tue, 23 Jun 2026 17:18:09 +0900</pubDate>
+            <sparkle:version>5</sparkle:version>
             <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/hikaru777/Lumen/releases/download/v1.1.0/Lumen-1.1.0.dmg" length="4724363" type="application/octet-stream" sparkle:edSignature="xyeQYz+LIp2OmBmxhT3Arb5DvdSDOIyIBZBG0o1syRGwHRa3n1qOp6tFHXX5FDKnXpHKwu48okvj+t73ywxaDg=="/>
+            <enclosure url="https://github.com/hikaru777/Lumen/releases/download/v1.1.0/Lumen-1.1.0.dmg" length="4727269" type="application/octet-stream" sparkle:edSignature="zkrtRt1zwYGtEt0Z5BK2dMdj91NjMSMjAsjUy1rhoNpnUzdSNhjTQQjYHm/GxdN6q3yzuR3YNnYn/+qmdFWMCg=="/>
         </item>
     </channel>
 </rss>
